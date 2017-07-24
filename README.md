@@ -1,5 +1,6 @@
 # materialize-vue-admin
 
+
 > A Vue.js project
 
 ## Build Setup
@@ -19,3 +20,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+It is a template for admin panel built using Materialize css and Vue J
